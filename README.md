@@ -1,9 +1,6 @@
 ## Hi I'm Emerald 👋
 
-### My socials : 
-
-[<img src='https://raw.githubusercontent.com/emerald-developer/emerald-developer/70243d83be60b75e509c1a495bd8cd88aa75bd54/mail.svg' alt='mail' height='40'>](https://discord.com/users/emerald.developer)  
-
+### 
 <!--
 **emerald-developer/emerald-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
