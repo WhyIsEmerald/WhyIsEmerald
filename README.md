@@ -2,7 +2,7 @@
 
 ### My socials : 
 
-[<img src='https://raw.githubusercontent.com/emerald-developer/emerald-developer/32e84b8b410d07bccebc746167ff3ed03c9ff3c8/mail.svg' alt='mail' height='40'>](https://discord.com/users/emerald.developer)  
+[<img src='https://raw.githubusercontent.com/emerald-developer/emerald-developer/70243d83be60b75e509c1a495bd8cd88aa75bd54/mail.svg' alt='mail' height='40'>](https://discord.com/users/emerald.developer)  
 
 <!--
 **emerald-developer/emerald-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
