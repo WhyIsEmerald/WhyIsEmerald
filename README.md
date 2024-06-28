@@ -1,4 +1,4 @@
-## Hi I'm Emerald 👋
+## Hi I'm Emerald 👋 A fellow homosapien
 
 ### 
 <!--
