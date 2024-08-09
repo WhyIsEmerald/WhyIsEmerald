@@ -5,4 +5,4 @@ I am an aspiring full stack develloper and linux user enthusiast.
 ### Most used languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emerald-developer&theme=dracula&v=3)
 ### Top repositories:
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emerald-developer&repo=gitFire&theme=dracula)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emerald-developer&repo=fireUp&theme=dracula)
