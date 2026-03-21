@@ -1,7 +1,7 @@
 ## Hi I'm Emerald 👋 A fellow homosapien!
 I am an aspiring full stack developer and linux enthusiast. 
 ### My stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=WhyIsEmerald&show_icons=true&ring_color=7bf765&show=discussions_started&v=2&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=WhyIsEmerald&show_icons=true&ring_color=7bf765&show=discussions_started&v=3&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be)
 
 ### Most used languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhyIsEmerald&theme=dracula&v=2&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be) 
